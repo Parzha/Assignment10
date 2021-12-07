@@ -10,6 +10,7 @@ agar Food generate ya spawn nashod ye bar code reset konid ok mishe
 
 khode Head snake ba range sabz kamrange va tail ya body mar ba range sabze porange ba shape circle
 Not good food ya hamon poop (D:) ba range ghavaiie ke score ro kam mikone
+Va food ba range ghermez ya hamon apple
 
 
 
