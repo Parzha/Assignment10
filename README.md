@@ -1,4 +1,4 @@
-# Assingment10
+# Assignment10
 snake game with arcade library
 
 dar code snake 
